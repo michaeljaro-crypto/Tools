@@ -1,0 +1,12 @@
+1.open power shell
+
+2.type irm https://get.activated.win | iex
+
+3.select the option you want
+ex.select 1 to activate windows
+
+4.restart computer
+
+5.Enjoy your windows
+
+By Rufus
